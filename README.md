@@ -1,2 +1,2 @@
 # Class1
-about github
+Sami is sexy
